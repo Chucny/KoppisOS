@@ -135,7 +135,10 @@ Beta public release for supported devices.
 </p>
 
 <hr>
-
+<h2>Open Source</h2>
+<p>
+The project has been made open source, but to view the source code, open the system.img with 7zip, e2fstool or some way to extract EXT4 image files. All the source code will be there. Based on the Android AOSP.
+</p><hr>
 <div align="center">
 
 <strong>Copyright &copy; Chucny 2026</strong>
