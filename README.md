@@ -36,11 +36,11 @@ Built on Android 17.0 and optimized for modern ARM64 A/B devices as a Generic Sy
 <table>
 <tr>
 <td><strong>Version</strong></td>
-<td>1.0</td>
+<td>1.1</td>
 </tr>
 <tr>
 <td><strong>Build ID</strong></td>
-<td><code>KoppisOS_1.0_arm64</code></td>
+<td><code>KoppisOS_1.1_arm64</code></td>
 </tr>
 <tr>
 <td><strong>Android Base</strong></td>
