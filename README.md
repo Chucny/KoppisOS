@@ -1,4 +1,4 @@
-<img src="https://www.gstatic.com/devrel-devsite/prod/v8b8ef181e1dc913802015af34f7ea88ee446e0cb5daec5c977ac4c46a7a372bd/android/images/lockup.png"></img><br>
+<img src="https://www.gstatic.com/devrel-devsite/prod/v8b8ef181e1dc913802015af34f7ea88ee446e0cb5daec5c977ac4c46a7a372bd/android/images/lockup.png" /><br>
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="80">
