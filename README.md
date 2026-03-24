@@ -64,9 +64,11 @@ Built on Android 17.0 and optimized for modern ARM64 A/B devices as a Generic Sy
 
 <h2>Download</h2>
 
-<p>
-<a href="https://github.com/Chucny/KoppisOS/releases">Download latest release</a>
-</p>
+
+<a href="https://github.com/Chucny/KoppisOS/releases">
+  <img src="https://img.shields.io/badge/Download%20latest%20release-1a73e8?style=for-the-badge&logo=android&logoColor=white" alt="Download latest release">
+</a>
+
 
 <hr>
 
@@ -77,7 +79,8 @@ Built on Android 17.0 and optimized for modern ARM64 A/B devices as a Generic Sy
 <li>Physical Android device</li>
 <li>ADB installed</li>
 <li>Fastboot installed</li>
-<li>vbmeta support</li>
+<li>Latest KoppisOS release</li>
+
 </ul>
 
 <hr>
