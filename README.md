@@ -8,7 +8,7 @@
 <p style="font-size:16px;">
   Android 17.0 Generic System Image
 </p>
-
+Hello! It's me, Chucny, the main developer of KoppisOS here. I just wanted to tell you, that I will be continuing the work on this project, after 2 months of not releasing anything here. Writing this as current of May 12th, 12-05-2026. :)
 <p>
   <img src="https://img.shields.io/badge/Android-17.0-34A853">
   <img src="https://img.shields.io/badge/Status-Beta-4285F4">
